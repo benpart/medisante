@@ -1,0 +1,35 @@
+
+	java:S112”"FDefine and throw a dedicated exception instead of using a generic one.(…áñÑúÿÿÿÿ8¦ İúˆ2J$2c68020c-0f6a-4c71-8623-5b3fc9efb573
+‰	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(èĞ†–8§ İúˆ2J$026883a6-2099-46e1-bdd2-91bae365195f
+	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(±Åúïıÿÿÿÿ8§ İúˆ2J$002d86df-eee0-43c7-b529-e8f3968aebe4
+‰	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(ıº“¹8§ İúˆ2J$7d354666-e9ad-41fd-b165-ba1a4806f740
+	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(«Úª¶úÿÿÿÿ8§ İúˆ2J$556084b8-7771-4336-b4cd-e2cfcdabc41d
+•
+java:S1192¢"LDefine a constant instead of duplicating this literal "SECRET_HASH" 3 times.(°ƒ—íøÿÿÿÿ8ò°ãŒ‰2J$2341f091-1bc0-4054-9a35-80f077513e5b
+
+java:S1192ƒ"KDefine a constant instead of duplicating this literal "HmacSHA256" 4 times.( ¦¹‰8ª İúˆ2J$2dfb03c9-328f-44fa-837a-11cc38476cc5
+Œ
+java:S1192¼"IDefine a constant instead of duplicating this literal "USERNAME" 3 times.(‰ìä8ª İúˆ2J$9b9ac725-3e91-479a-84d1-b5529dba911d
+›	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôÉºò8¦ƒìŒ‰2J$4b479ec7-197d-43b1-95a6-d91cacfa2c0d
+“	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ëÙô8¨ƒìŒ‰2J$bfb784fd-671e-4b31-bef5-fc4a589a16be
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚²›Éıÿÿÿÿ8¬ôÃ‰2J$9a6e4ad9-4a72-4d18-a53a-0e7f7fd93828
+”	java:S117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£åç¥8¨ƒìŒ‰2J$62058cb0-5313-4cf9-93e5-63791433f3dd
+¤
+java:S1488ˆ"[Immediately return this expression instead of assigning it to the temporary variable "key".(ıöıùÿÿÿÿ8ªƒìŒ‰2J$760492da-00af-42ec-b3b6-5f01fc511d0b
+	java:S116Q"LRename this field "A" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´»»ù8¥¢İúˆ2J$5647bb8e-5622-440d-90ee-bb5db483396b
+‰
+java:S1845Q"FRename field "A" to prevent any misunderstanding/clash with field "a".(´»»ù8§¢İúˆ2J$62474176-b2d7-462d-8f78-2b29a1a656e1
+s
+java:S51648"+Call "remove()" on "THREAD_MESSAGE_DIGEST".(û«Ñÿÿÿÿÿ8«¢İúˆ2J$3d7bfb5c-a10c-4dad-9414-be2c8bcc7991
+‘	java:S100”"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÕ¸è8µ„ìŒ‰2J$0331dff6-24d0-4d51-a3f5-d7bf873eeda0
+S
+java:S1874"0Remove this use of "fromName"; it is deprecated.(ÚŒÛÌøÿÿÿÿ8›ß˜Ó‹2
+s	java:S106§"+Replace this use of System.out by a logger.(¡§ç¶üÿÿÿÿ8¾„ìŒ‰2J$79d3f40a-8bda-4b90-a268-c1a5c1b3784d
+s	java:S106ç"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8Ç„ìŒ‰2J$03d36593-c16c-4326-9211-858e9afeb10e
+	java:S116"VRename this field "EMPTY_ARRAY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şˆ›Åùÿÿÿÿ8Î„ìŒ‰2J$06ba50b5-0d43-4fc1-b619-f9b3ca605529
+‰
+java:S1124›"EReorder the modifiers to comply with the Java Language Specification.(Ë“üÌ8Ğ„ìŒ‰2J$c2c05844-1cfb-4daf-ac63-d5a084fc51e5
+È
+java:S1130®"Remove the declaration of thrown exception 'java.security.NoSuchAlgorithmException', as it cannot be thrown from method's body.(óĞ¥—ùÿÿÿÿ8Ô„ìŒ‰2J$24c250d6-3d8d-4687-ba67-b940d8ad37f7
+
+java:S1994œ"6Move the update of "x" into this loop's update clause.(ó÷‚øÿÿÿÿ8ß„ìŒ‰2J$774ce2fb-7c60-4c19-bdee-e7bac51a556a
